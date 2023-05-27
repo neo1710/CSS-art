@@ -203,3 +203,140 @@ overflow: hidden;
     grid-template-columns: repeat(5,1fr);
     gap: 50px;
  }
+
+ .star1{
+
+   width: 5px;
+   height: 5px; 
+   background-color: whitesmoke;
+   box-shadow: white 0px 5px 15px;
+   border-radius: 50%;
+  position: absolute;
+   left: 460px; 
+ }
+
+ .star2{
+
+    width: 10px;
+    height: 10px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+   left: 110px;
+   top: 20px;
+  }
+
+  .star3{
+
+    width: 10px;
+    height: 10px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 200px;
+    top: 400px;
+  }
+  .star4{
+
+    width: 8px;
+    height: 8px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+  }
+  .star5{
+
+    width: 7px;
+    height: 7px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 0px;
+    top: 480px;
+  }
+  .star6{
+
+    width: 9px;
+    height: 9px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 310px;
+    top: 70px;
+  }
+  .star7{
+
+    width: 8px;
+    height: 8px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+    top: 270px;
+  }
+  .star8{
+
+    width: 6px;
+    height: 6px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 420px;
+    top: 420px;
+  }
+
+  .star9{
+
+    width: 7px;
+    height: 7px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 200px;
+    top: 120px;
+  }
+
+  .star10{
+
+    width: 4px;
+    height: 4px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 80px;
+    top: 110px;
+  }
+  .star11{
+    width: 4px;
+    height: 4px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+  }
+
+  .star12{
+    width: 7px;
+    height: 7px; 
+    background-color: whitesmoke;
+    box-shadow: white 0px 5px 15px;
+    border-radius: 50%;
+    position: absolute;
+    left: 480px;
+    top: 480px;
+  }
+
+
